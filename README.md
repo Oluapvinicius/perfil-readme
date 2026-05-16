@@ -1,14 +1,14 @@
 # Olá, eu sou o Paulo! 👋
 
-### 🚀 Estudante de Desenvolvimento de Sistemas @ SENAI
+###  Estudante de Desenvolvimento de Sistemas @ SENAI
 
 Estou em transição de carreira / iniciando minha jornada no mundo da tecnologia através do curso técnico de Desenvolvimento de Sistemas no SENAI. Meu foco é aprender a construir aplicações eficientes, com código limpo e resolver problemas reais através da programação.
 
-- 🏫 Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
+-  Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas em Aprendizado
+###  Tecnologias e Ferramentas em Aprendizado
 
 Aqui estão as tecnologias que venho aprendendo no SENAI:
 
@@ -23,7 +23,7 @@ Aqui estão as tecnologias que venho aprendendo no SENAI:
 
 ---
 
-### 📊 Minhas Estatísticas
+###  Minhas Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oluapvinicius&theme=radical" alt="Estatísticas do Paulo" />
@@ -32,7 +32,7 @@ Aqui estão as tecnologias que venho aprendendo no SENAI:
 
 ---
 
-### 🌐 Conecte-se comigo
+###  Conecte-se comigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/paulo-vinicius-232923353/" target="_blank">
