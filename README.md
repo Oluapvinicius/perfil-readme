@@ -26,11 +26,10 @@ Aqui estão as tecnologias que venho aprendendo no SENAI:
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Oluapvinicius&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Oluapvinicius&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" />
-</p>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oluapvinicius&theme=radical" alt="Estatísticas do Paulo" />
 
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oluapvinicius&theme=radical" alt="Streak do GitHub" />
+</p>
 ---
 
 ###  Conecte-se comigo
